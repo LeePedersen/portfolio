@@ -1,4 +1,4 @@
-.left-grid, .right-grid{
+.left-grid, .right-grid {
   width: 150px;
   background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/forest.jpg);
   padding-left: 30px;
@@ -80,5 +80,19 @@ figcaption {
   transform: rotate(180deg);
   font-size: 20px;
   margin-top: 40px;
-  margin-left: 25px;
+  margin-left: 27px;
+  user-select: none;
+}
+
+.right-grid .morse {
+  transform: none;
+}
+
+.panel-default {
+  border-width: thin;
+  border-color: black;
+}
+
+.panel-heading {
+  border-width: medium;
 }

@@ -34,7 +34,7 @@ x     a,
 x     img,
 x     div, and
 x     span.
-    Bootstrap classes are used to style the page. This means explicitly using classes mentioned on this page, not just linking in the Bootstrap stylesheet.
+x    Bootstrap classes are used to style the page. This means explicitly using classes mentioned on this page, not just linking in the Bootstrap stylesheet.
     Project includes a custom-made stylesheet that uses
 x    typography styles,
 x    cascading,
