@@ -33,7 +33,7 @@ x     strong,
 x     a,
 x     img,
 x     div, and
-     span.
+x     span.
     Bootstrap classes are used to style the page. This means explicitly using classes mentioned on this page, not just linking in the Bootstrap stylesheet.
     Project includes a custom-made stylesheet that uses
 x    typography styles,
