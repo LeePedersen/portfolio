@@ -7,7 +7,7 @@ x Your CSS stylesheet must be named styles.css and reside in a css directory. Yo
 Your project should include the following:
 
 x    Your name.
-    An image of you, or something that represents you.
+x    An image of you, or something that represents you.
     A list of projects you have created with active links to their GitHub pages sites or GitHub repositories.
     For each, include a brief description of the project and what languages it uses.
     An “About Me” section.
@@ -24,12 +24,12 @@ Your instructor will review your code for the following objectives:
     The following HTML tags are all used:
 x     p,
 x     h,
-     ul,
+x     ul,
      ol,
-     li,
+x     li,
      em,
-     strong,
-     a,
+x     strong,
+x     a,
 x     img,
 x     div, and
      span.

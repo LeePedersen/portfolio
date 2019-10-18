@@ -47,3 +47,7 @@ h4 {
 body {
   font-family: lato;
 }
+
+.panel-body {
+  font-size: 16px;
+}
