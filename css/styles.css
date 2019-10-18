@@ -1,6 +1,6 @@
 .left-grid, .right-grid {
   width: 150px;
-  background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/forest.jpg);
+  background-image: url(https://raw.githubusercontent.com/LeePedersen/portfolio/gh-pages/img/forest.jpg);
   padding-left: 30px;
 }
 
