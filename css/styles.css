@@ -1,5 +1,5 @@
 .left-grid, .right-grid{
-  width: 100px;
+  width: 150px;
   background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/forest.jpg);
   padding-left: 30px;
 }
@@ -8,7 +8,6 @@
   width: 100%;
   background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/prideflag.png);
   padding-right: 0;
-  /* add background texture */
 }
 
 .sidebar-links {
@@ -18,7 +17,7 @@
 .grid-control {
   width: 100%;
   display: grid;
-  grid-template-columns: 100px 1fr 100px;
+  grid-template-columns: 150px 1fr 150px;
 }
 
 .main {
@@ -73,4 +72,13 @@ figcaption {
 
 .queer {
   font-variant-caps: all-small-caps;
+}
+
+.morse {
+  color: white;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  font-size: 20px;
+  margin-top: 40px;
+  margin-left: 25px;
 }
