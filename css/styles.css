@@ -1,7 +1,7 @@
 .left-grid {
   float: left;
   width: 300px;
-  background-image: url("https://wallpaperplay.com/walls/full/9/e/3/156701.jpg");
+  background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/forest.jpg);
   padding-left: 30px;
   color: white;
   height: 1425px;
@@ -31,4 +31,19 @@
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 40px;
+}
+
+.img1 {
+  width: 200px;
+  float: left;
+  margin-right: 15px;
+}
+
+h4 {
+  color: black;
+  font-weight: bold;
+}
+
+body {
+  font-family: lato;
 }
