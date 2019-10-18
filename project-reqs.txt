@@ -34,7 +34,11 @@ x     img,
 x     div, and
      span.
     Bootstrap classes are used to style the page. This means explicitly using classes mentioned on this page, not just linking in the Bootstrap stylesheet.
-    Project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats.
+    Project includes a custom-made stylesheet that uses
+x    typography styles,
+    cascading,
+x    the box model, and 
+x    floats.
     Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools.
     Commits are made regularly with clear messages that finish the phrase "It will…"
     The project repo contains a README that includes:
