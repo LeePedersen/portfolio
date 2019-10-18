@@ -1,0 +1,19 @@
+.left-grid {
+  float: left;
+  width: 300px;
+  background-image: url("https://wallpaperplay.com/walls/full/9/e/3/156701.jpg");
+  padding-left: 30px;
+  color: white;
+  height: 800px;
+}
+
+.right-grid {
+  float: right;
+}
+
+.name {
+  font-size: 200px;
+  writing-mode: vertical-rl;
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
