@@ -1,20 +1,13 @@
-.left-grid {
-  width: 300px;
+.left-grid, .right-grid {
+  width: 150px;
   background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/forest.jpg);
   padding-left: 30px;
-  color: white;
-  height: 1425px;
-
-}
-
-.left-grid li{
-  font-size: 17px;
 }
 
 .main-grid {
   width: 100%;
-  background-color: darkgreen;
-  /* add background texture */
+  background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/prideflag.png);
+  padding-right: 0;
 }
 
 .sidebar-links {
@@ -24,7 +17,7 @@
 .grid-control {
   width: 100%;
   display: grid;
-  grid-template-columns: 300px 1fr;
+  grid-template-columns: 150px 1fr 150px;
 }
 
 .main {
@@ -63,9 +56,43 @@ figcaption {
 
 .title {
   text-align: center;
-  background-color: darkgreen;
+  /* background-color: darkgreen; */
   font-size: 50px;
   color: white;
   margin-bottom: 0px;
   font-variant: small-caps;
+}
+
+.bottom {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+.queer {
+  font-variant-caps: all-small-caps;
+}
+
+.morse {
+  color: white;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  font-size: 20px;
+  margin-top: 40px;
+  margin-left: 27px;
+  user-select: none;
+}
+
+.right-grid .morse {
+  transform: none;
+}
+
+.panel-default {
+  border-width: thin;
+  border-color: black;
+}
+
+.panel-heading {
+  border-width: medium;
 }
