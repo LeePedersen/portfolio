@@ -10,6 +10,8 @@
 .right-grid {
   float: right;
   width: 100%;
+  background-color: darkgreen;
+  /* add background texture */
 }
 
 .name {
@@ -23,4 +25,10 @@
   width: 100%;
   display: grid;
   grid-template-columns: 300px 1fr;
+}
+
+.main {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
 }
