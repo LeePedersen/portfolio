@@ -4,16 +4,23 @@
   background-image: url("https://wallpaperplay.com/walls/full/9/e/3/156701.jpg");
   padding-left: 30px;
   color: white;
-  height: 800px;
+  height: 1425px;
 }
 
 .right-grid {
   float: right;
+  width: 100%;
 }
 
 .name {
   font-size: 200px;
   writing-mode: vertical-rl;
-  padding-left: 0px;
+  margin-left: 0px;
   padding-bottom: 0px;
+}
+
+.grid-control {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 300px 1fr;
 }
