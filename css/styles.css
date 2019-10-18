@@ -1,10 +1,10 @@
 .left-grid {
-  float: left;
   width: 300px;
   background-image: url(/home/lee/Desktop/Epicodus/portfolio/img/forest.jpg);
   padding-left: 30px;
   color: white;
   height: 1425px;
+
 }
 
 .left-grid li{
@@ -12,9 +12,9 @@
 }
 
 .main-grid {
-  float: right;
   width: 100%;
   background-color: darkgreen;
+  padding-right: 0;
   /* add background texture */
 }
 
