@@ -7,18 +7,21 @@
   height: 1425px;
 }
 
-.right-grid {
+.left-grid li{
+  font-size: 17px;
+}
+
+.left-grid 
+
+.main-grid {
   float: right;
   width: 100%;
   background-color: darkgreen;
   /* add background texture */
 }
 
-.name {
-  font-size: 200px;
-  writing-mode: vertical-rl;
-  margin-left: 0px;
-  padding-bottom: 0px;
+.sidebar-links {
+  list-style-type: none;
 }
 
 .grid-control {
@@ -56,5 +59,16 @@ body {
 }
 
 figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+}
 
+.title {
+  text-align: center;
+  background-color: darkgreen;
+  font-size: 50px;
+  color: white;
+  margin-bottom: 0px;
+  font-variant: small-caps;
 }
