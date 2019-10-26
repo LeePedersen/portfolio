@@ -8,6 +8,12 @@
 
 _This site tells people a little about me and links my projects._
 
+## Link to published site
+
+[Github pages site][1]
+
+[1]: https://leepedersen.github.io/portfolio/
+
 ## Setup/Installation Requirements
 
 * _Clone to machine_
